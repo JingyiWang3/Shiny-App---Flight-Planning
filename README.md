@@ -28,7 +28,7 @@ Term: Spring 2018
 
 + **Project summary**: Airplane is a very popular transportation tool.  In this project, we developed a new app which helps people make their flight plan, with high utility and accuracy.
 
-+ **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. Here is their statement:
++ **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. Here's their statements:
 + Hongyu Li: "I finished the tab named "Find the perfect airline" and ploted parcoordinates for recommendation."
 + Jingyi Wang: "I finished the Whole project User Interface ; Interactive Map data cleaning and server."
 + Qianli Zhu: "I finished the work of page designing and feature building for Tab1."
