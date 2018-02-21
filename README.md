@@ -18,8 +18,8 @@ The **learning goals** for this project is:
 ## Project Title: Open Data App - an RShiny app development project
 Term: Spring 2018
 
-+ Team #
-+ **Projec title**: + Team members
++ Team #5
++ **Projec title**:
 	+ team member 1: Hongyu Li
 	+ team member 2: Jingyi Wang
 	+ team member 3: Du Guo
