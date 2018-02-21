@@ -17,7 +17,6 @@ The **learning goals** for this project is:
 
 ## Project Title: Open Data App - an RShiny app development project
 Term: Spring 2018
-Link: https://jingyiwang.shinyapps.io/Airline/
 
 + Team #5
 + **Project title**: AirPlan App
@@ -26,7 +25,7 @@ Link: https://jingyiwang.shinyapps.io/Airline/
 	+ team member 3: Du Guo
 	+ team member 4: Qianli Zhu
 	+ team member 5: Yiran Jiang
-
++ **Shiny Link**: https://jingyiwang.shinyapps.io/Airline/
 + **Project summary**: Airplane is a very popular transportation tool.  In this project, we developed a new app which helps people make their flight plan, with high utility and accuracy.
 
 + **Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. Here's their statements:
