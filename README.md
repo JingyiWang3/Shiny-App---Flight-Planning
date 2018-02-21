@@ -1,20 +1,3 @@
-# Project 2: Open Data App - an RShiny app development project
-
-### [Project Description](doc/project2_desc.md)
-
-
-In this second project of GR5243 Applied Data Science, we develop an *Exploratory Data Analysis and Visualization* shiny app on a topic of your choice using U.S. government open data released on the [data.gov](https://data.gov/) website. See [Project 2 Description](doc/project2_desc.md) for more details.  
-
-The **learning goals** for this project is:
-
-- business intelligence for data science
-- data cleaning
-- data visualization
-- systems development/design life cycle
-- shiny app/shiny server
-
-*The above general statement about project 2 can be removed once you are finished with your project. It is optional.
-
 ## Project Title: Open Data App - an RShiny app development project
 Term: Spring 2018
 
@@ -26,11 +9,13 @@ Term: Spring 2018
 	+ team member 4: Qianli Zhu
 	+ team member 5: Yiran Jiang
 + **Shiny Link**: https://jingyiwang.shinyapps.io/Airline/
-+ **Project summary**: Airplane is a very popular transportation tool.  In this project, we developed a new app which helps people make their flight plan, with high utility and accuracy.
++ **Project summary**: Airplane is a popular transportation tool. In this project, we developed a new app called AirPlan which helps people plan their flights and learn more about different airlines. In particular, we focus on 14 major US airlines and offer a comparison between the regions they cover, their on-time performance, safety performance, luggage handling, service, and price. Unlike traditional airline planning websites which mainly focus on service or price, we cover more factors people might be interested in and help them make better and efficient decisions.
+
+
 
 + **Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. Here's their statements:
 + Hongyu Li: "I finished the tab named ‘Find the perfect airline’ and ploted parcoordinates for recommendation."
-+ Jingyi Wang: "I finished the Whole project User Interface ; Interactive Map data cleaning and server."
++ Jingyi Wang: "I finished the work of designing user unterface for the project; data cleaning and server part for Tab1"
 + Qianli Zhu: "I finished the work of page designing and feature building for Tab1."
 + Yiran Jiang: "I finished the code part of Tab2 with Du Guo and contributed to data mining and cleaning."
 + Du Guo: "I finished the code part of Tab2 with Yiran Jiang and contributed to image processing."
