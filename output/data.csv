@@ -1,0 +1,477 @@
+carrier,origin,lon.x,lat.x,dest,lon.y,lat.y,frequency,CARRIER_NAME
+AA,"New York, NY",-74.0059728,40.7127753,"Milwaukee, WI",-87.9064736,43.0389025,4,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Minneapolis, MN",-93.2650108,44.977753,13,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Miami, FL",-80.1917902,25.7616798,62,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Atlanta, GA",-84.3879824,33.7489954,37,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Austin, TX",-97.7430608,30.267153,40,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Baltimore, MD",-76.6121893,39.2903848,14,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Boston, MA",-71.0588801,42.3600825,58,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Charlotte Amalie, VI",-64.9307007,18.3419004,29,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Charlotte, NC",-80.8431267,35.2270869,56,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Chicago, IL",-87.6297982,41.8781136,62,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Cincinnati, OH",-84.5120196,39.1031182,1,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Cleveland, OH",-81.6943605,41.49932,7,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Dallas/Fort Worth, TX",-97.0403352,32.8998091,64,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Denver, CO",-104.990251,39.7392358,35,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Detroit, MI",-83.0457538,42.331427,11,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Eagle, CO",-106.8286507,39.6552634,14,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Fort Lauderdale, FL",-80.1373174,26.1224386,24,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Fort Myers, FL",-81.8723084,26.640628,12,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Greensboro/High Point, NC",-79.8296743,36.0899873,1,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Houston, TX",-95.3698028,29.7604267,26,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Indianapolis, IN",-86.158068,39.768403,17,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Jacksonville, FL",-81.655651,30.3321838,19,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Kansas City, MO",-94.5785667,39.0997265,14,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Killeen, TX",-97.7277959,31.1171194,1,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Las Vegas, NV",-115.1398296,36.1699412,48,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Little Rock, AR",-92.2895948,34.7464809,2,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Los Angeles, CA",-118.2436849,34.0522342,47,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Madison, WI",-89.4012302,43.0730517,2,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Memphis, TN",-90.0489801,35.1495343,4,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Wichita, KS",-97.330053,37.6871761,2,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Philadelphia, PA",-75.1652215,39.9525839,33,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Phoenix, AZ",-112.0740373,33.4483771,52,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Pittsburgh, PA",-79.9958864,40.4406248,11,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Nashville, TN",-86.7816016,36.1626638,12,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"New Orleans, LA",-90.0715323,29.9510658,21,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"New York, NY",-74.0059728,40.7127753,3,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Norfolk, VA",-76.2858726,36.8507689,2,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Oakland, CA",-122.2711137,37.8043637,1,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Oklahoma City, OK",-97.5164276,35.4675602,1,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Omaha, NE",-95.9979883,41.2523634,1,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Ontario, CA",-117.6508876,34.0633443,7,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Orlando, FL",-81.3792365,28.5383355,56,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Palm Springs, CA",-116.5452921,33.8302961,1,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"San Jose, CA",-121.8863286,37.3382082,5,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"San Juan, PR",-66.1057355,18.4655394,41,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Santa Ana, CA",-117.867653,33.7454725,13,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Portland, OR",-122.6764815,45.5230622,17,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Providence, RI",-71.4128343,41.8239891,3,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Raleigh/Durham, NC",-78.8636402,35.8991678,24,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Reno, NV",-119.8138027,39.5296329,2,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Richmond, VA",-77.4360481,37.5407246,6,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Sacramento, CA",-121.4943996,38.5815719,13,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Salt Lake City, UT",-111.8910474,40.7607793,7,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"San Antonio, TX",-98.4936282,29.4241219,8,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"San Diego, CA",-117.1610838,32.715738,35,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"San Francisco, CA",-122.4194155,37.7749295,50,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Wichita Falls, TX",-98.4933873,33.9137085,2,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"South Bend, IN",-86.2519898,41.6763545,1,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"St. Louis, MO",-90.1994042,38.6270025,5,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Seattle, WA",-122.3320708,47.6062095,37,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Shreveport, LA",-93.7501789,32.5251516,2,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Tucson, AZ",-110.926479,32.2217429,8,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Tulsa, OK",-95.992775,36.1539816,6,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Syracuse, NY",-76.1474244,43.0481221,2,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Tampa, FL",-82.4571776,27.950575,24,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"Washington, DC",-77.0368707,38.9071923,59,American Airlines
+AA,"New York, NY",-74.0059728,40.7127753,"West Palm Beach/Palm Beach, FL",-80.0533746,26.7153424,28,American Airlines
+AS,"New York, NY",-74.0059728,40.7127753,"Seattle, WA",-122.3320708,47.6062095,23,Alaska Airlines
+B6,"New York, NY",-74.0059728,40.7127753,"Albuquerque, NM",-106.6055534,35.0853336,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Aguadilla, PR",-67.1540698,18.4274454,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"San Francisco, CA",-122.4194155,37.7749295,32,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"San Jose, CA",-121.8863286,37.3382082,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"San Juan, PR",-66.1057355,18.4655394,32,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Austin, TX",-97.7430608,30.267153,32,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Boston, MA",-71.0588801,42.3600825,41,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Buffalo, NY",-78.8783689,42.8864468,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Burbank, CA",-118.3089661,34.1808392,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Burlington, VT",-73.212072,44.4758825,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Charleston, SC",-79.9310512,32.7764749,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Charlotte, NC",-80.8431267,35.2270869,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Chicago, IL",-87.6297982,41.8781136,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Dayton, OH",-84.1916069,39.7589478,1,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Daytona Beach, FL",-81.0228331,29.2108147,19,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Denver, CO",-104.990251,39.7392358,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Fort Lauderdale, FL",-80.1373174,26.1224386,63,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Fort Myers, FL",-81.8723084,26.640628,53,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Houston, TX",-95.3698028,29.7604267,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Hyannis, MA",-70.2881124,41.6524911,12,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Jacksonville, FL",-81.655651,30.3321838,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Las Vegas, NV",-115.1398296,36.1699412,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Long Beach, CA",-118.1937395,33.7700504,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Los Angeles, CA",-118.2436849,34.0522342,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Martha's Vineyard, MA",-70.645473,41.3804981,15,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Nantucket, MA",-70.099451,41.2834704,15,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"New Orleans, LA",-90.0715323,29.9510658,32,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Oakland, CA",-122.2711137,37.8043637,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Omaha, NE",-95.9979883,41.2523634,1,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Orlando, FL",-81.3792365,28.5383355,62,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Oshkosh, WI",-88.5426136,44.0247062,1,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Palm Springs, CA",-116.5452921,33.8302961,12,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Phoenix, AZ",-112.0740373,33.4483771,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Ponce, PR",-66.6140616,18.0110768,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Portland, ME",-70.2553259,43.661471,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Portland, OR",-122.6764815,45.5230622,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Raleigh/Durham, NC",-78.8636402,35.8991678,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Reno, NV",-119.8138027,39.5296329,27,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Rochester, NY",-77.6109219,43.16103,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Sacramento, CA",-121.4943996,38.5815719,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Salt Lake City, UT",-111.8910474,40.7607793,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"San Diego, CA",-117.1610838,32.715738,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Savannah, GA",-81.0998342,32.0835407,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Seattle, WA",-122.3320708,47.6062095,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Syracuse, NY",-76.1474244,43.0481221,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Sarasota/Bradenton, FL",-82.5545239,27.3955284,49,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Washington, DC",-77.0368707,38.9071923,31,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"West Palm Beach/Palm Beach, FL",-80.0533746,26.7153424,62,JetBlue Airways
+B6,"New York, NY",-74.0059728,40.7127753,"Tampa, FL",-82.4571776,27.950575,53,JetBlue Airways
+DL,"New York, NY",-74.0059728,40.7127753,"Grand Rapids, MI",-85.6680863,42.9633599,3,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Fort Lauderdale, FL",-80.1373174,26.1224386,62,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Fort Myers, FL",-81.8723084,26.640628,41,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Allentown/Bethlehem/Easton, PA",-75.4440964,40.6516458,1,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Anchorage, AK",-149.9002778,61.2180556,3,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Atlanta, GA",-84.3879824,33.7489954,71,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Austin, TX",-97.7430608,30.267153,31,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Baltimore, MD",-76.6121893,39.2903848,6,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Bangor, ME",-68.7778138,44.8011821,4,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Baton Rouge, LA",-91.1403196,30.4582829,1,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Bedford, MA",-71.2760089,42.4906231,2,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Boston, MA",-71.0588801,42.3600825,74,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Bozeman, MT",-111.0429339,45.6769979,8,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Buffalo, NY",-78.8783689,42.8864468,40,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Burbank, CA",-118.3089661,34.1808392,1,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Charleston, SC",-79.9310512,32.7764749,31,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Charlotte Amalie, VI",-64.9307007,18.3419004,31,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Charlotte, NC",-80.8431267,35.2270869,6,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Chicago, IL",-87.6297982,41.8781136,22,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Cincinnati, OH",-84.5120196,39.1031182,18,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Clarksburg/Fairmont, WV",-80.3594046,39.2904311,1,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Cleveland, OH",-81.6943605,41.49932,11,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Colorado Springs, CO",-104.8213634,38.8338816,1,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Columbia, SC",-81.0348144,34.0007104,4,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Columbus, OH",-82.9987942,39.9611755,2,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Dallas, TX",-96.7969879,32.7766642,2,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Dallas/Fort Worth, TX",-97.0403352,32.8998091,15,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Daytona Beach, FL",-81.0228331,29.2108147,3,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Denver, CO",-104.990251,39.7392358,64,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Des Moines, IA",-93.6091064,41.6005448,1,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Detroit, MI",-83.0457538,42.331427,64,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Duluth, MN",-92.1004852,46.7866719,1,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Fargo, ND",-96.7898034,46.8771863,1,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Raleigh/Durham, NC",-78.8636402,35.8991678,23,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Richmond, VA",-77.4360481,37.5407246,2,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Rochester, NY",-77.6109219,43.16103,2,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Salt Lake City, UT",-111.8910474,40.7607793,32,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"San Antonio, TX",-98.4936282,29.4241219,31,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"San Diego, CA",-117.1610838,32.715738,35,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"San Francisco, CA",-122.4194155,37.7749295,34,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"San Juan, PR",-66.1057355,18.4655394,31,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Santa Ana, CA",-117.867653,33.7454725,2,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Sarasota/Bradenton, FL",-82.5545239,27.3955284,18,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Savannah, GA",-81.0998342,32.0835407,9,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Scranton/Wilkes-Barre, PA",-75.9927652,41.2981769,1,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Seattle, WA",-122.3320708,47.6062095,31,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"South Bend, IN",-86.2519898,41.6763545,5,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"St. Louis, MO",-90.1994042,38.6270025,4,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"St. Petersburg, FL",-82.6402915,27.7676008,1,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Syracuse, NY",-76.1474244,43.0481221,6,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Tampa, FL",-82.4571776,27.950575,68,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Tucson, AZ",-110.926479,32.2217429,1,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Washington, DC",-77.0368707,38.9071923,38,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"West Palm Beach/Palm Beach, FL",-80.0533746,26.7153424,53,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Manchester, NH",-71.4547891,42.9956397,1,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Memphis, TN",-90.0489801,35.1495343,1,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Miami, FL",-80.1917902,25.7616798,76,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Milwaukee, WI",-87.9064736,43.0389025,12,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Minneapolis, MN",-93.2650108,44.977753,64,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Nashville, TN",-86.7816016,36.1626638,7,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"New Orleans, LA",-90.0715323,29.9510658,55,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"New York, NY",-74.0059728,40.7127753,1,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Norfolk, VA",-76.2858726,36.8507689,3,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Oakland, CA",-122.2711137,37.8043637,1,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Omaha, NE",-95.9979883,41.2523634,3,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Ontario, CA",-117.6508876,34.0633443,2,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Orlando, FL",-81.3792365,28.5383355,62,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Panama City, FL",-85.6602058,30.1588129,1,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Philadelphia, PA",-75.1652215,39.9525839,7,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Phoenix, AZ",-112.0740373,33.4483771,33,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Pittsburgh, PA",-79.9958864,40.4406248,25,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Pontiac, MI",-83.2910468,42.6389216,7,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Portland, ME",-70.2553259,43.661471,3,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Portland, OR",-122.6764815,45.5230622,32,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Knoxville, TN",-83.9207392,35.9606384,2,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Las Vegas, NV",-115.1398296,36.1699412,31,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Lexington, KY",-84.5037164,38.0405837,2,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Greensboro/High Point, NC",-79.8296743,36.0899873,2,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Greer, SC",-82.2270568,34.9387279,5,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Hartford, CT",-72.6850932,41.7637111,1,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Honolulu, HI",-157.8583333,21.3069444,7,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Houston, TX",-95.3698028,29.7604267,6,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Indianapolis, IN",-86.158068,39.768403,6,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Jackson, WY",-110.7624282,43.4799291,9,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Jacksonville, FL",-81.655651,30.3321838,8,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Kansas City, MO",-94.5785667,39.0997265,11,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Key West, FL",-81.7799871,24.5550593,1,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Los Angeles, CA",-118.2436849,34.0522342,33,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Louisville, KY",-85.7584557,38.2526647,3,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Madison, WI",-89.4012302,43.0730517,3,Delta Airlines
+DL,"New York, NY",-74.0059728,40.7127753,"Lihue, HI",-159.3711111,21.9811111,3,Delta Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Elmira/Corning, NY",-76.893638,42.15987,1,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Fayetteville, AR",-94.1718542,36.082156,16,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Fort Myers, FL",-81.8723084,26.640628,2,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Allentown/Bethlehem/Easton, PA",-75.4440964,40.6516458,3,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Asheville, NC",-82.5514869,35.5950581,3,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Atlanta, GA",-84.3879824,33.7489954,14,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Augusta, GA",-82.0105148,33.4734978,1,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Bangor, ME",-68.7778138,44.8011821,20,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Birmingham, AL",-86.80249,33.5206608,31,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Boston, MA",-71.0588801,42.3600825,1,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Bristol/Johnson City/Kingsport, TN",-82.5652775,36.5738471,1,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Buffalo, NY",-78.8783689,42.8864468,27,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Burlington, VT",-73.212072,44.4758825,23,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Charleston, SC",-79.9310512,32.7764749,27,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Charlotte, NC",-80.8431267,35.2270869,30,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Charlottesville, VA",-78.4766781,38.0293059,23,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Chicago, IL",-87.6297982,41.8781136,1,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Cincinnati, OH",-84.5120196,39.1031182,19,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Cleveland, OH",-81.6943605,41.49932,31,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Columbia, SC",-81.0348144,34.0007104,30,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Columbus, OH",-82.9987942,39.9611755,24,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Des Moines, IA",-93.6091064,41.6005448,1,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Detroit, MI",-83.0457538,42.331427,12,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Lincoln, NE",-96.6851982,40.8257625,1,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Louisville, KY",-85.7584557,38.2526647,17,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Madison, WI",-89.4012302,43.0730517,13,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Grand Rapids, MI",-85.6680863,42.9633599,26,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Greensboro/High Point, NC",-79.8296743,36.0899873,31,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Greer, SC",-82.2270568,34.9387279,13,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Harrisburg, PA",-76.8867008,40.2731911,2,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Houston, TX",-95.3698028,29.7604267,3,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Indianapolis, IN",-86.158068,39.768403,17,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Jacksonville, FL",-81.655651,30.3321838,18,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Kansas City, MO",-94.5785667,39.0997265,23,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Knoxville, TN",-83.9207392,35.9606384,7,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Lexington, KY",-84.5037164,38.0405837,17,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Pittsburgh, PA",-79.9958864,40.4406248,29,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Portland, ME",-70.2553259,43.661471,19,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Raleigh/Durham, NC",-78.8636402,35.8991678,29,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Manchester, NH",-71.4547891,42.9956397,10,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Memphis, TN",-90.0489801,35.1495343,10,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Milwaukee, WI",-87.9064736,43.0389025,23,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Minneapolis, MN",-93.2650108,44.977753,4,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Myrtle Beach, SC",-78.8866943,33.6890603,4,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Nashville, TN",-86.7816016,36.1626638,25,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"New Orleans, LA",-90.0715323,29.9510658,7,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Norfolk, VA",-76.2858726,36.8507689,11,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Omaha, NE",-95.9979883,41.2523634,30,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Philadelphia, PA",-75.1652215,39.9525839,1,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Rochester, NY",-77.6109219,43.16103,23,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Sarasota/Bradenton, FL",-82.5545239,27.3955284,1,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Savannah, GA",-81.0998342,32.0835407,31,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Richmond, VA",-77.4360481,37.5407246,31,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Syracuse, NY",-76.1474244,43.0481221,22,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Traverse City, MI",-85.6206317,44.7630567,7,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Washington, DC",-77.0368707,38.9071923,4,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"St. Louis, MO",-90.1994042,38.6270025,22,Atlantic Southeast Airlines
+EV,"New York, NY",-74.0059728,40.7127753,"Wilmington, NC",-77.9447102,34.2257255,8,Atlantic Southeast Airlines
+F9,"New York, NY",-74.0059728,40.7127753,"Denver, CO",-104.990251,39.7392358,23,Frontier Airlines 
+F9,"New York, NY",-74.0059728,40.7127753,"Miami, FL",-80.1917902,25.7616798,28,Frontier Airlines 
+F9,"New York, NY",-74.0059728,40.7127753,"Atlanta, GA",-84.3879824,33.7489954,28,Frontier Airlines 
+F9,"New York, NY",-74.0059728,40.7127753,"Cincinnati, OH",-84.5120196,39.1031182,4,Frontier Airlines 
+HA,"New York, NY",-74.0059728,40.7127753,"Honolulu, HI",-157.8583333,21.3069444,31,Hawaiian Airlines
+NK,"New York, NY",-74.0059728,40.7127753,"Atlantic City, NJ",-74.4229266,39.3642834,1,Spirit Air Lines
+NK,"New York, NY",-74.0059728,40.7127753,"Chicago, IL",-87.6297982,41.8781136,31,Spirit Air Lines
+NK,"New York, NY",-74.0059728,40.7127753,"Dallas/Fort Worth, TX",-97.0403352,32.8998091,31,Spirit Air Lines
+NK,"New York, NY",-74.0059728,40.7127753,"Denver, CO",-104.990251,39.7392358,27,Spirit Air Lines
+NK,"New York, NY",-74.0059728,40.7127753,"Detroit, MI",-83.0457538,42.331427,31,Spirit Air Lines
+NK,"New York, NY",-74.0059728,40.7127753,"Fort Lauderdale, FL",-80.1373174,26.1224386,31,Spirit Air Lines
+NK,"New York, NY",-74.0059728,40.7127753,"Kansas City, MO",-94.5785667,39.0997265,10,Spirit Air Lines
+NK,"New York, NY",-74.0059728,40.7127753,"Las Vegas, NV",-115.1398296,36.1699412,17,Spirit Air Lines
+NK,"New York, NY",-74.0059728,40.7127753,"Los Angeles, CA",-118.2436849,34.0522342,24,Spirit Air Lines
+NK,"New York, NY",-74.0059728,40.7127753,"Myrtle Beach, SC",-78.8866943,33.6890603,31,Spirit Air Lines
+NK,"New York, NY",-74.0059728,40.7127753,"Oakland, CA",-122.2711137,37.8043637,17,Spirit Air Lines
+NK,"New York, NY",-74.0059728,40.7127753,"San Juan, PR",-66.1057355,18.4655394,18,Spirit Air Lines
+OO,"New York, NY",-74.0059728,40.7127753,"Chicago, IL",-87.6297982,41.8781136,29,SkyWest Airlines 
+UA,"New York, NY",-74.0059728,40.7127753,"Albany, NY",-73.7562317,42.6525793,4,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Alexandria, LA",-92.4451371,31.3112936,1,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Anchorage, AK",-149.9002778,61.2180556,3,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Atlanta, GA",-84.3879824,33.7489954,6,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Austin, TX",-97.7430608,30.267153,24,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Baltimore, MD",-76.6121893,39.2903848,4,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Boise, ID",-116.2146068,43.6187102,2,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Boston, MA",-71.0588801,42.3600825,11,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Bozeman, MT",-111.0429339,45.6769979,4,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Charlotte Amalie, VI",-64.9307007,18.3419004,1,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Cheyenne, WY",-104.8202462,41.1399814,4,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Chicago, IL",-87.6297982,41.8781136,41,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Cincinnati, OH",-84.5120196,39.1031182,2,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Cleveland, OH",-81.6943605,41.49932,6,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Colorado Springs, CO",-104.8213634,38.8338816,6,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Columbus, OH",-82.9987942,39.9611755,2,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Dallas/Fort Worth, TX",-97.0403352,32.8998091,8,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Denver, CO",-104.990251,39.7392358,33,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Des Moines, IA",-93.6091064,41.6005448,3,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Detroit, MI",-83.0457538,42.331427,6,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Fort Lauderdale, FL",-80.1373174,26.1224386,4,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Fort Myers, FL",-81.8723084,26.640628,5,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Grand Rapids, MI",-85.6680863,42.9633599,6,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Gunnison, CO",-106.9253207,38.5458246,2,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Harrisburg, PA",-76.8867008,40.2731911,1,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Honolulu, HI",-157.8583333,21.3069444,3,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Houston, TX",-95.3698028,29.7604267,32,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Idaho Falls, ID",-112.0339645,43.4916514,1,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Indianapolis, IN",-86.158068,39.768403,20,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Jackson, WY",-110.7624282,43.4799291,26,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Kahului, HI",-156.4729469,20.8893351,2,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Kansas City, MO",-94.5785667,39.0997265,19,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Lake Charles, LA",-93.2173758,30.2265949,3,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Las Vegas, NV",-115.1398296,36.1699412,31,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Long Beach, CA",-118.1937395,33.7700504,1,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Los Angeles, CA",-118.2436849,34.0522342,43,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Louisville, KY",-85.7584557,38.2526647,1,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Madison, WI",-89.4012302,43.0730517,2,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Miami, FL",-80.1917902,25.7616798,5,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Milwaukee, WI",-87.9064736,43.0389025,9,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Minneapolis, MN",-93.2650108,44.977753,11,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Mobile, AL",-88.0398912,30.6953657,1,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Montrose/Delta, CO",-107.9138034,38.5204869,9,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"New Orleans, LA",-90.0715323,29.9510658,7,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"New York, NY",-74.0059728,40.7127753,1,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Newark, NJ",-74.1723667,40.735657,32,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Omaha, NE",-95.9979883,41.2523634,4,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Orlando, FL",-81.3792365,28.5383355,5,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Palm Springs, CA",-116.5452921,33.8302961,2,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Pendleton, OR",-118.7885967,45.672075,1,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Philadelphia, PA",-75.1652215,39.9525839,4,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Phoenix, AZ",-112.0740373,33.4483771,6,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Pittsburgh, PA",-79.9958864,40.4406248,8,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Pontiac, MI",-83.2910468,42.6389216,1,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Portland, OR",-122.6764815,45.5230622,31,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Raleigh/Durham, NC",-78.8636402,35.8991678,2,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Reno, NV",-119.8138027,39.5296329,1,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Rockford, IL",-89.0939952,42.2711311,1,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Sacramento, CA",-121.4943996,38.5815719,9,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Salt Lake City, UT",-111.8910474,40.7607793,7,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"San Antonio, TX",-98.4936282,29.4241219,8,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"San Diego, CA",-117.1610838,32.715738,7,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"San Francisco, CA",-122.4194155,37.7749295,40,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"San Jose, CA",-121.8863286,37.3382082,2,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"San Juan, PR",-66.1057355,18.4655394,2,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Santa Ana, CA",-117.867653,33.7454725,31,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Sarasota/Bradenton, FL",-82.5545239,27.3955284,1,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Scottsbluff, NE",-103.6671662,41.8666341,3,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Seattle, WA",-122.3320708,47.6062095,10,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Shreveport, LA",-93.7501789,32.5251516,2,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Spokane, WA",-117.4260465,47.6587802,3,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Springfield, MO",-93.2922989,37.2089572,1,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"St. Louis, MO",-90.1994042,38.6270025,3,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"St. Petersburg, FL",-82.6402915,27.7676008,2,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Tampa, FL",-82.4571776,27.950575,5,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Tulsa, OK",-95.992775,36.1539816,1,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Washington, DC",-77.0368707,38.9071923,23,United Air Lines
+UA,"New York, NY",-74.0059728,40.7127753,"Wichita, KS",-97.330053,37.6871761,4,United Air Lines
+US,"New York, NY",-74.0059728,40.7127753,"Atlanta, GA",-84.3879824,33.7489954,12,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Baltimore, MD",-76.6121893,39.2903848,4,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Boston, MA",-71.0588801,42.3600825,7,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Charlotte, NC",-80.8431267,35.2270869,12,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Chicago, IL",-87.6297982,41.8781136,7,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Cleveland, OH",-81.6943605,41.49932,3,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Dallas/Fort Worth, TX",-97.0403352,32.8998091,6,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Denver, CO",-104.990251,39.7392358,10,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Fort Lauderdale, FL",-80.1373174,26.1224386,4,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Fort Myers, FL",-81.8723084,26.640628,7,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Houston, TX",-95.3698028,29.7604267,9,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Indianapolis, IN",-86.158068,39.768403,2,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Jacksonville, FL",-81.655651,30.3321838,5,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Kansas City, MO",-94.5785667,39.0997265,1,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Las Vegas, NV",-115.1398296,36.1699412,1,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Los Angeles, CA",-118.2436849,34.0522342,8,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Miami, FL",-80.1917902,25.7616798,7,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Minneapolis, MN",-93.2650108,44.977753,1,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Nashville, TN",-86.7816016,36.1626638,3,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"New Orleans, LA",-90.0715323,29.9510658,7,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Ontario, CA",-117.6508876,34.0633443,6,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Orlando, FL",-81.3792365,28.5383355,4,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Pensacola, FL",-87.2169149,30.421309,1,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Philadelphia, PA",-75.1652215,39.9525839,8,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Phoenix, AZ",-112.0740373,33.4483771,12,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Raleigh/Durham, NC",-78.8636402,35.8991678,2,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Sacramento, CA",-121.4943996,38.5815719,3,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"San Antonio, TX",-98.4936282,29.4241219,2,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"San Diego, CA",-117.1610838,32.715738,6,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"San Francisco, CA",-122.4194155,37.7749295,10,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"San Jose, CA",-121.8863286,37.3382082,3,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"San Juan, PR",-66.1057355,18.4655394,3,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Santa Ana, CA",-117.867653,33.7454725,1,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Seattle, WA",-122.3320708,47.6062095,4,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"St. Louis, MO",-90.1994042,38.6270025,2,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Tampa, FL",-82.4571776,27.950575,6,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"Washington, DC",-77.0368707,38.9071923,6,US Airways 
+US,"New York, NY",-74.0059728,40.7127753,"West Palm Beach/Palm Beach, FL",-80.0533746,26.7153424,2,US Airways 
+VX,"New York, NY",-74.0059728,40.7127753,"Austin, TX",-97.7430608,30.267153,3,Virgin America
+VX,"New York, NY",-74.0059728,40.7127753,"Dallas, TX",-96.7969879,32.7766642,31,Virgin America
+VX,"New York, NY",-74.0059728,40.7127753,"Fort Lauderdale, FL",-80.1373174,26.1224386,16,Virgin America
+VX,"New York, NY",-74.0059728,40.7127753,"Las Vegas, NV",-115.1398296,36.1699412,45,Virgin America
+VX,"New York, NY",-74.0059728,40.7127753,"Los Angeles, CA",-118.2436849,34.0522342,39,Virgin America
+VX,"New York, NY",-74.0059728,40.7127753,"Palm Springs, CA",-116.5452921,33.8302961,16,Virgin America
+VX,"New York, NY",-74.0059728,40.7127753,"San Francisco, CA",-122.4194155,37.7749295,40,Virgin America
+WN,"New York, NY",-74.0059728,40.7127753,"Akron, OH",-81.5190053,41.0814447,15,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Albuquerque, NM",-106.6055534,35.0853336,12,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Amarillo, TX",-101.8312969,35.2219971,1,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Atlanta, GA",-84.3879824,33.7489954,31,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Austin, TX",-97.7430608,30.267153,23,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Baltimore, MD",-76.6121893,39.2903848,6,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Birmingham, AL",-86.80249,33.5206608,10,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Boise, ID",-116.2146068,43.6187102,1,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Burbank, CA",-118.3089661,34.1808392,10,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Charleston, SC",-79.9310512,32.7764749,7,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Chicago, IL",-87.6297982,41.8781136,31,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Cleveland, OH",-81.6943605,41.49932,2,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Columbus, OH",-82.9987942,39.9611755,10,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Corpus Christi, TX",-97.396381,27.8005828,7,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Dallas, TX",-96.7969879,32.7766642,31,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Dayton, OH",-84.1916069,39.7589478,3,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Denver, CO",-104.990251,39.7392358,31,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Des Moines, IA",-93.6091064,41.6005448,6,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Detroit, MI",-83.0457538,42.331427,9,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"El Paso, TX",-106.4850217,31.7618778,7,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Flint, MI",-83.6874562,43.0125274,2,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Fort Lauderdale, FL",-80.1373174,26.1224386,25,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Fort Myers, FL",-81.8723084,26.640628,11,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Greer, SC",-82.2270568,34.9387279,3,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Harlingen/San Benito, TX",-97.702983,26.190409,4,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Houston, TX",-95.3698028,29.7604267,31,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Indianapolis, IN",-86.158068,39.768403,22,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Jacksonville, FL",-81.655651,30.3321838,14,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Kansas City, MO",-94.5785667,39.0997265,31,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Las Vegas, NV",-115.1398296,36.1699412,28,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Little Rock, AR",-92.2895948,34.7464809,11,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Los Angeles, CA",-118.2436849,34.0522342,28,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Louisville, KY",-85.7584557,38.2526647,3,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Lubbock, TX",-101.8551665,33.5778631,8,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Memphis, TN",-90.0489801,35.1495343,8,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Midland/Odessa, TX",-102.3676431,31.8456816,4,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Milwaukee, WI",-87.9064736,43.0389025,31,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Minneapolis, MN",-93.2650108,44.977753,22,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Nashville, TN",-86.7816016,36.1626638,31,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"New Orleans, LA",-90.0715323,29.9510658,23,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Oakland, CA",-122.2711137,37.8043637,23,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Oklahoma City, OK",-97.5164276,35.4675602,9,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Omaha, NE",-95.9979883,41.2523634,12,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Ontario, CA",-117.6508876,34.0633443,11,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Orlando, FL",-81.3792365,28.5383355,26,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Panama City, FL",-85.6602058,30.1588129,3,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Pensacola, FL",-87.2169149,30.421309,11,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Phoenix, AZ",-112.0740373,33.4483771,28,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Pittsburgh, PA",-79.9958864,40.4406248,12,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Portland, OR",-122.6764815,45.5230622,19,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Raleigh/Durham, NC",-78.8636402,35.8991678,19,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Reno, NV",-119.8138027,39.5296329,8,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Sacramento, CA",-121.4943996,38.5815719,16,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Salt Lake City, UT",-111.8910474,40.7607793,6,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"San Antonio, TX",-98.4936282,29.4241219,24,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"San Diego, CA",-117.1610838,32.715738,20,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"San Francisco, CA",-122.4194155,37.7749295,20,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"San Jose, CA",-121.8863286,37.3382082,10,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"San Juan, PR",-66.1057355,18.4655394,1,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Santa Ana, CA",-117.867653,33.7454725,13,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Seattle, WA",-122.3320708,47.6062095,20,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Spokane, WA",-117.4260465,47.6587802,2,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"St. Louis, MO",-90.1994042,38.6270025,31,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Tampa, FL",-82.4571776,27.950575,23,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Tucson, AZ",-110.926479,32.2217429,7,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Tulsa, OK",-95.992775,36.1539816,10,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Washington, DC",-77.0368707,38.9071923,7,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"West Palm Beach/Palm Beach, FL",-80.0533746,26.7153424,2,Southwest Airlines
+WN,"New York, NY",-74.0059728,40.7127753,"Wichita, KS",-97.330053,37.6871761,4,Southwest Airlines
