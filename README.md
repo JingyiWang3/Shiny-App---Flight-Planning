@@ -19,7 +19,7 @@ The **learning goals** for this project is:
 Term: Spring 2018
 
 + Team #5
-+ **Projec title**:
++ **Project title**: AirPlan App
 	+ team member 1: Hongyu Li
 	+ team member 2: Jingyi Wang
 	+ team member 3: Du Guo
