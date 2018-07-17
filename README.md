@@ -6,7 +6,6 @@
 
 
 
-
 ## Introduction
 
 Millions of people fly on US airlines every month and a good flying expereince always makes for happier travel. In this project, we developed a app called **AirPlan** and the goal is to help customers choose the best airline to fly with. In particular, we focus on 14 major US airlines and provide airline choices based on their on-time performance, safety performance, luggage handling, in-flight service, and price.
@@ -36,44 +35,22 @@ Which airline is the best to fly is a problem faced by many travellers before th
 
 ![screenshot](lib/safety.png)
 
-## Contribution Statement 
-+ **Jingyi Wang**   
-
-	+ Designed user unterface & introudction section & interactive map section
-	+ Wrote README.md
-	+ Modified customer satisfiction reviews section and helped with data preprocessing.
-
-+ **Hongyu Li** 
-
-	+ Designed find the perfect airline section and ploted parcoordinates for recommendation.
-
-
-
-+ **Qianli Zhu** 
-
-	+ Helped page designing and feature building for interactive map section
-
-+ **Yiran Jiang** 
-
-	+ Designed airline statistics section with Du Guo and contributed to data mining and cleaning
-
-+ **Du Guo**
-
-	+ Designed airline statistics section with Du Guo with Yiran Jiang and contributed to image processing.
 
 ## References
-Data Source: [https://www.transtats.bts.gov/](https://www.transtats.bts.gov/)
+1. Data Source: [https://www.transtats.bts.gov/](https://www.transtats.bts.gov/)
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+2. Contribution Statement: [Click here](doc/Contribution_Statement.md)
 
-```
-proj/
-├── app/
-├── lib/
-├── data/
-├── doc/
-└── output/
-```
+2. Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
-Please see each subfolder for a README file.
+		```
+		proj/
+		├── app/
+		├── lib/
+		├── data/
+		├── doc/
+		└── output/
+		```
+
+	Please see each subfolder for a README file.
 
