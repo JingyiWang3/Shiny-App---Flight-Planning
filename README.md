@@ -31,14 +31,14 @@ Which airline is the best to fly is a problem faced by many travellers before th
 
 
 
-##App Images
+## App Images
 ![screenshot](lib/selection.png)
 
 
 ![screenshot](lib/safety.png)
 
 
-## Reference 
+## References
 Data Source: [https://www.transtats.bts.gov/](https://www.transtats.bts.gov/)
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
