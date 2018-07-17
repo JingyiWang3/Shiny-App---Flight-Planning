@@ -1,4 +1,4 @@
-## Open Data App using RShiny - Which Airline is the Best to Fly?
+# Open Data App using RShiny - Which Airline is the Best to Fly? <hr>
 
 + This is a modified version of the <a href="https://jingyiwang.shinyapps.io/AirPlan/" target="_blank">Rshiny team project</a>
 
@@ -30,10 +30,12 @@ Which airline is the best to fly is a problem faced by many travellers before th
 
 
 ## App Images
-![screenshot](lib/selection.png)
+
+<img src="lib/selection.png" alt="drawing" width="500px"/>
 
 
-![screenshot](lib/safety.png)
+<img src="lib/safety.png" alt="drawing" width="500px"/>
+
 
 
 ## References
