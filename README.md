@@ -31,10 +31,10 @@ Which airline is the best to fly is a problem faced by many travellers before th
 
 ## App Images
 
-<img src="lib/selection.png" alt="drawing" width="500px"/>
+<img src="lib/selection.png" alt="drawing" width="800px"/>
 
 
-<img src="lib/safety.png" alt="drawing" width="500px"/>
+<img src="lib/safety.png" alt="drawing" width="800px"/>
 
 
 
