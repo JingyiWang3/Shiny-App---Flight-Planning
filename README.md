@@ -38,7 +38,7 @@ Which airline is the best to fly is a problem faced by many travellers before th
 
 
 
-## References
+## Reference
 1. Data Source: [https://www.transtats.bts.gov/](https://www.transtats.bts.gov/)
 
 2. Contribution Statement: [Click here](doc/Contribution_Statement.md)
