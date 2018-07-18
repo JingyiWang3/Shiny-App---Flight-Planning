@@ -1,9 +1,9 @@
-## Open Data App using RShiny - Which Airline is the Best to Fly? 
+# Open Data App using RShiny - Which Airline is the Best to Fly? 
+
 
 + This is a modified version of the <a href="https://jingyiwang.shinyapps.io/AirPlan/" target="_blank">Rshiny team project</a>
 
-+ **Link to Shiny App:**   <a href="https://jingyiwang.shinyapps.io/AirPlan/" target="_blank">https://jingyiwang.shinyapps.io/AirPlan/</a>
-
++ **Link to the Shiny App:**   <a href="https://jingyiwang.shinyapps.io/AirPlan/" target="_blank">https://jingyiwang.shinyapps.io/AirPlan/</a>
 
 
 ## Introduction
@@ -13,7 +13,7 @@ Millions of people fly on US airlines every month and a good flying expereince a
 
 
 ## What is the Business Problem Solved?
-Which airline is the best to fly is a problem faced by many travellers before their trip. **Airplan**, unlike traditional airline planning websites which focus primarily on in-flight service or price, dugs through more criteria covering every aspect of each airline’s operations.
+Which airline is the best to fly is a problem faced by many travellers before their trip. Unlike traditional airline planning websites which focus primarily on in-flight service or price, **Airplan** dugs through criteria covering every aspect of each airline’s operations.
 
 ## Criteria
 1. On-time performance
@@ -27,16 +27,15 @@ Which airline is the best to fly is a problem faced by many travellers before th
 9. Luggage handling
 
 
-
-
 ## App Images
+**Airline Planning Tool**
+<img src="output/selection.png" alt="drawing" width="800px"/>
 
-<img src="lib/selection.png" alt="drawing" width="800px"/>
+**Interactive Map**
+<img src="output/map.png" alt="drawing" width="800px"/>
 
-
-<img src="lib/safety.png" alt="drawing" width="800px"/>
-
-
+**Airline Statistics**
+<img src="output/safety.png" alt="drawing" width="800px"/>
 
 ## Reference
 1. Data Source: [https://www.transtats.bts.gov/](https://www.transtats.bts.gov/)
